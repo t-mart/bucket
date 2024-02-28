@@ -14,7 +14,7 @@ Created from <https://github.com/ScoopInstaller/BucketTemplate>.
 scoop bucket add t-mart https://github.com/t-mart/bucket
 ```
 
-## Add a manifest from this bucket
+## Install software from this bucket
 
 ### [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
 
