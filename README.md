@@ -21,3 +21,9 @@ scoop bucket add t-mart https://github.com/t-mart/bucket
 ```shell
 scoop install t-mart/adguard-home
 ```
+
+### [monoff](https://github.com/t-mart/monoff)
+
+```shell
+scoop install t-mart/monoff
+```
